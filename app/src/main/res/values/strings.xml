@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="sale">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene">Главная</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="category">Категории</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень</string>
+    <string name="text"></string>
+</resources>
